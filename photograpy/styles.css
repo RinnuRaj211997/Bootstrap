@@ -1,0 +1,49 @@
+/* .navbar-nav{
+    background-color:rgba(104, 100, 80, 0.283);
+    
+} */
+#navbar{
+    background-color:rgb(9, 9, 9);
+    color:rgb(79, 99, 7);
+    font-weight:bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#carouselExampleCaptions{
+    background-color:black;
+}
+#carousel-item{
+    background-color:black;
+}
+
+#bg{
+    height: 700px;
+    width: 100%;
+    background-image:url('bestdslsr_nikond500.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#h1{
+    background-color:black;
+    color:white;
+    text-align:center;
+    width:100%;
+    height:100%;
+    
+}
+#os{
+    background-color:black;
+}
+
+#div{
+    background-color:black;
+}
+.card{
+    height: 350px;
+    width: 300px;
+}
+#cont{
+    background-image:url('/Canon-EOS-R-1280-2.webp');
+    height: 600px;
+    color:white;
+
+}
